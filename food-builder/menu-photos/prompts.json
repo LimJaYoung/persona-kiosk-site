@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "prompts": {
+    "bulgogi": "Professional appetizing restaurant menu food photography. Single asset, Korean bulgogi set: glossy grilled beef on white ceramic plate, small white rice bowl alongside, beef is dominant. Consistent camera angle 35 degrees above table, three quarter front view, never overhead. Bright near-white warm ivory seamless background and tabletop #faf9f5. Soft large studio key light upper left, gentle fill right, subtle contact shadow. Subject large fills 80 percent of frame width, centered with safe edges. Sharp realistic texture, premium commercial photography, delicious fresh food, no props, no text, no logos, no borders. Landscape 3:2 composition.",
+    "kimchi": "Professional appetizing restaurant menu food photography. Single asset, Korean kimchi jjigae: rich red soup with pork, tofu, kimchi and scallions in a low white ceramic bowl. Consistent camera angle 35 degrees above table, three quarter front view, never overhead. Bright near-white warm ivory seamless background and tabletop #faf9f5. Soft large studio key light upper left, gentle fill right, subtle contact shadow. Subject large fills 80 percent of frame width, centered with safe edges. Sharp realistic texture, premium commercial photography, delicious fresh food, no props, no text, no logos, no borders. Landscape 3:2 composition.",
+    "bibimbap": "Professional appetizing restaurant menu food photography. Single asset, Korean bibimbap in low white ceramic bowl: colorful neatly arranged vegetables, rice, sunny side egg and small gochujang. Consistent camera angle 35 degrees above table, three quarter front view, never overhead. Bright near-white warm ivory seamless background and tabletop #faf9f5. Soft large studio key light upper left, gentle fill right, subtle contact shadow. Subject large fills 80 percent of frame width, centered with safe edges. Sharp realistic texture, premium commercial photography, delicious fresh food, no props, no text, no logos, no borders. Landscape 3:2 composition.",
+    "cola": "Professional appetizing restaurant menu food photography. Single asset, clear short glass filled with dark cola, ice cubes, condensation, no straw. Consistent camera angle 35 degrees above table, three quarter front view, never overhead. Bright near-white warm ivory seamless background and tabletop #faf9f5. Soft large studio key light upper left, gentle fill right, subtle contact shadow. Subject large fills 80 percent of frame width, centered with safe edges. Sharp realistic texture, premium commercial photography, delicious fresh food, no props, no text, no logos, no borders. Landscape 3:2 composition.",
+    "cider": "Professional appetizing restaurant menu food photography. Single asset, clear short glass filled with sparkling clear lemon-lime soda, ice cubes, condensation, no straw. Consistent camera angle 35 degrees above table, three quarter front view, never overhead. Bright near-white warm ivory seamless background and tabletop #faf9f5. Soft large studio key light upper left, gentle fill right, subtle contact shadow. Subject large fills 80 percent of frame width, centered with safe edges. Sharp realistic texture, premium commercial photography, delicious fresh food, no props, no text, no logos, no borders. Landscape 3:2 composition."
+  },
+  "additionalDrinks": [
+    {
+      "id": "americano",
+      "prompt": "Premium photorealistic restaurant beverage menu photo, iced black americano in clear glass with ice. Single glass large centered fills 80 percent frame height. Consistent camera 35 degrees above table three quarter front view. Bright near-white warm ivory seamless tabletop and background #faf9f5. Soft studio key light upper left and gentle fill right, subtle contact shadow, appetizing fresh droplets, sharp texture. No props, no text, no logos, no borders. Landscape 3:2 composition."
+    },
+    {
+      "id": "latte",
+      "prompt": "Premium photorealistic restaurant beverage menu photo, iced cafe latte in clear glass with ice and appetizing espresso milk layers. Single glass large centered fills 80 percent frame height. Consistent camera 35 degrees above table three quarter front view. Bright near-white warm ivory seamless tabletop and background #faf9f5. Soft studio key light upper left and gentle fill right, subtle contact shadow, appetizing fresh droplets, sharp texture. No props, no text, no logos, no borders. Landscape 3:2 composition."
+    },
+    {
+      "id": "orange",
+      "prompt": "Premium photorealistic restaurant beverage menu photo, fresh orange juice in clear glass. Single glass large centered fills 80 percent frame height. Consistent camera 35 degrees above table three quarter front view. Bright near-white warm ivory seamless tabletop and background #faf9f5. Soft studio key light upper left and gentle fill right, subtle contact shadow, appetizing fresh droplets, sharp texture. No props, no text, no logos, no borders. Landscape 3:2 composition."
+    },
+    {
+      "id": "strawberry",
+      "prompt": "Premium photorealistic restaurant beverage menu photo, strawberry sparkling ade in clear glass with ice and fresh strawberries. Single glass large centered fills 80 percent frame height. Consistent camera 35 degrees above table three quarter front view. Bright near-white warm ivory seamless tabletop and background #faf9f5. Soft studio key light upper left and gentle fill right, subtle contact shadow, appetizing fresh droplets, sharp texture. No props, no text, no logos, no borders. Landscape 3:2 composition."
+    }
+  ]
+}
